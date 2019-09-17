@@ -1,3 +1,1 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to use this page to document my personal projects.
+Welcome text goes here. I'll change this once I understand how it works.
