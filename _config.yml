@@ -1,12 +1,12 @@
-title: My Idea (working title)
+title: Live Project (my generic working title)
 author: Alex Tung
 email: atung323@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog will be dedicated to documenting a personal project of mine.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+# twitter_username: your-twitter-handle
+github_username:  alextongue
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
