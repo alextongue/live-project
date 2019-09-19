@@ -3,15 +3,17 @@ title: "Snake Harvesting"
 date: 2019-09-18
 ---
 
-### alt: Alex the Cable Guy
+### alt title: Alex the Cable Guy
 
 -----
+
 _**Context:** 11:03PM EST, back on the living room couch in Queens.  It's a tad cooler tonight -- maybe because the summer season is coming to an end. I have Miles Davis' cover of "[Bye Bye Blackbird](https://en.wikipedia.org/wiki/Bye_Bye_Blackbird)" playing in my head. There are the three versions that have persisted in my memory:_
 - _The [original 1957 recording](https://www.youtube.com/watch?v=KV2lNHfSXBQ) from his album 'Round About Midnight._
 - _A [live recording](https://www.youtube.com/watch?v=x6bz-hByzv4) from 1960 at The Olympia in Paris, with John Coltrane._
 - _A cover of Miles' cover from a gentleman who was testing out his plastic cornet at a wedding gig or something. I can't seem to find it on YouTube or Facebook for the life of me, but his instrument sounded absolutely beautiful in the spacious hall._
 
-_I ended up listening to the recording at the Olympia. Because I love the album cover design. All is well._  
+_I ended up listening to the recording at the Olympia. Because I love the album cover design. All is well._
+
 -----
 
 I've been spending just about every afternoon/evening for the past five days looking at hardware. I had dreamed of making a polished audio rig since I was a child. Now that I have a little spending money, I'll try to fulfill as many of these desires as I can alongside this project.
@@ -22,15 +24,15 @@ Like many other high channel count interfaces, the connectors are [DB25](https:/
 
 I found a handful of used 48-point 1/4" TRS patchbays. While I do plan to wire some of these inputs to dedicated preamps (and not through the bay), having the option to wire the entire 24x24 I/O in 1RU sounds beautifully compact.
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true&w=800">
+<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true&w=600">
 
 I'll just need a bunch of breakout cables on one side to get from DB25 to TRS, then TRS to XLR female/male for in/out. For repairability, I decided on "banks" of 8. Here's a block diagram to visualize what I'm thinking:
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true&w=800">
+<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true&w=600">
 
 For now, I can forget about two entire input banks because I don't anticipate using more than 8 inputs for any of my project needs. So looking at 3 output banks and 1 input bank, I would need 4 DB25-TRS breakout/snake cables and 3 TRS-XLR-Male snakes.
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true&w=800">
+<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true&w=600">
 
 **Here's where the analysis starts.** After finding some pretty inexpensive [DB25-TRS](https://www.amazon.com/Hosa-DTP802-Snake-Cable-6-6Ft/dp/B001B2SA30) and [TRS-XLR Male](https://www.monoprice.com/product?c_id=301&cp_id=30110&cs_id=3011005&p_id=601296&seq=1&format=2) snakes, the totals would come out to 146.52 + 69.72 = $216.24 before tax and shipping. But there's a big problem that I didn't think about: The DB25-TRS connection is between two units in the same rack. Even if I bought the shortest length of 2m, I'd have 8m (4 x 2m) worth of 8-channel, 3-conductor cabling for a total span of like, 1m (est. 4 x 0.3m).
 
