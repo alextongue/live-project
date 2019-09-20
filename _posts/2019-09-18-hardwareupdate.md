@@ -3,10 +3,6 @@ title: "Snake Harvesting"
 date: 2019-09-18
 ---
 
-### alt title: Alex the Cable Guy
-
------
-
 _**Context:** 11:03PM EST, back on the living room couch in Queens.  It's a tad cooler tonight -- maybe because the summer season is coming to an end. I have Miles Davis' cover of "[Bye Bye Blackbird](https://en.wikipedia.org/wiki/Bye_Bye_Blackbird)" playing in my head. There are the three versions that have persisted in my memory:_
 - _The [original 1957 recording](https://www.youtube.com/watch?v=KV2lNHfSXBQ) from his album 'Round About Midnight._
 - _A [live recording](https://www.youtube.com/watch?v=x6bz-hByzv4) from 1960 at The Olympia in Paris, with John Coltrane._
@@ -41,7 +37,9 @@ Also remembering that I have 26 1/4" TRS plugs sitting in a drawer at home from 
 - If I buy four 8ch TRS-XLR Make snakes ($69.72), I can cut like a foot off from the TRS side and wire the bare ends to DB25 plugs. I now have four DB25-TRS snakes of the length I need in my rack, for connecting all three output banks and one input bank.
 - Of the remaining snakes, I can then terminate three of them with my TRS connectors to get three TRS-XLR output snakes.
 
-This total comes out to almost $80 and some hours of soldering labor (read: experience), as opposed to almost $220 for off the shelf snakes, with half of the length simply taking up space and weight in the rack[^4]. Exciting.
+This total comes out to almost $80 and some hours of soldering labor (read: experience), as opposed to almost $220 for off the shelf snakes, with half of the length simply taking up space and weight in the rack[^4].
+
+Exciting.
 
 -----
 
