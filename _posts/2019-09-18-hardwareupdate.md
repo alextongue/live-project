@@ -32,21 +32,19 @@ For now, I can forget about two entire input banks because I don't anticipate us
 
 **Here's where the analysis starts.** After finding some pretty inexpensive [DB25-TRS](https://www.amazon.com/Hosa-DTP802-Snake-Cable-6-6Ft/dp/B001B2SA30) and [TRS-XLR Male](https://www.monoprice.com/product?c_id=301&cp_id=30110&cs_id=3011005&p_id=601296&seq=1&format=2) snakes, the totals would come out to 146.52 + 69.72 = $216.24 before tax and shipping. But there's a big problem that I didn't think about: The DB25-TRS connection is between two units in the same rack. Even if I bought the shortest length of 2m, I'd have 8m (4 x 2m) worth of 8-channel, 3-conductor cabling for a total span of like, 1m (est. 4 x 0.3m).
 
-Also remembering that I have 26 1/4" TRS plugs sitting in a drawer at home from some more adventurous days[^3], I started wondering if there would be a cheaper alternative that involved taking apart and building some custom snakes. After all, I had just ordered a new soldering iron that I'm itching to try out. Here's what I've gathered:
+Also remembering that I have 26 1/4" TRS plugs sitting in a drawer at home from some more adventurous days[^3], I wondered if there would be a cheaper alternative that involved taking apart and building some custom snakes. After all, I had just ordered a new soldering iron that I'm itching to try. Here's what I've gathered:
 - I can get 10 DB25 Male plugs for about $10.
 - If I buy four 8ch TRS-XLR Make snakes ($69.72), I can cut like a foot off from the TRS side and wire the bare ends to DB25 plugs. I now have four DB25-TRS snakes of the length I need in my rack, for connecting all three output banks and one input bank.
 - Of the remaining snakes, I can then terminate three of them with my TRS connectors to get three TRS-XLR output snakes.
 
-This total comes out to almost $80 and some hours of soldering labor (read: experience), as opposed to almost $220 for off the shelf snakes, with half of the length simply taking up space and weight in the rack[^4].
+This total comes out to almost $80 and some hours of soldering labor (read: experience), as opposed to almost $220 for off the shelf snakes, with half of the length simply taking up space and weight in the rack.
 
 Exciting.
 
 -----
 
-[^1]: for those who are familiar with interfaces that have a high analog I/O count (16x16 minimum), you probably know that $550 is a wild low price. For those who don't know: $550 a wild low price. And I snagged a new one on Reverb for just under $450 weeeee
+[^1]: for those who are familiar with interfaces with a high analog I/O count (16x16 minimum), you probably know that $550 is comparatively low. For those who don't know: $550 is comparatively low. And I snagged a new one on Reverb for just under $450 weeeee
 
 [^2]: I've also collected enough thoughts while comparing this with other high-channel-count interfaces to warrant a whole other blog post, but I'll go into that once the unit arrives.
 
-[^3]: I've heard of phases where folks have tried out a daring hairstyle or something. While I didn't have a red hair phase, I did have a red balanced cable phase. Specifically, 10 XLR starquad cables: 8 in candy-apple red and 2 in muted purple, all with black Neutrik NCMXX connectors. I also had plans to make a bunch of blue and white TRS cables, but I didn't follow through on those. That's how I have 26 extra TRS plugs. I've since mellowed down to become a black and discreet cable kind of guy...
-
-[^4]: The thing is, the amount of time I'll have spent scrolling through eBay listings soldering may not have been worth the $140 that I've saved. That's like a week's worth coffeeshop pay in California. I'm not particularly concerned with that kind of financial efficiency, if that's a word I'm using correctly.
+[^3]: I've heard of phases where folks have tried out a daring hairstyle or something. While I didn't have a red hair phase, I did have a "red cable" phase: 10 XLR starquad cables: 8 in candy-apple red and 2 in muted purple, all with black Neutrik NCMXX connectors. A true statement. So I also had plans to make a bunch of blue and white TRS cables, but I didn't follow through on those. That's how I have my extra plugs. I've since mellowed down to a black and discreet cable kind of guy...
