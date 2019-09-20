@@ -1,7 +1,9 @@
 ---
 title: "Snake Harvesting"
 date: 2019-09-18
----
+---  
+
+-----
 
 _**Context:** 11:03PM EST, back on the living room couch in Queens.  It's a tad cooler tonight -- maybe because the summer season is coming to an end. I have Miles Davis' cover of "[Bye Bye Blackbird](https://en.wikipedia.org/wiki/Bye_Bye_Blackbird)" playing in my head. There are the three versions that have persisted in my memory:_
 - _The [original 1957 recording](https://www.youtube.com/watch?v=KV2lNHfSXBQ) from his album 'Round About Midnight._
