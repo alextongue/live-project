@@ -22,15 +22,15 @@ Like many other high channel count interfaces, the connectors are [DB25](https:/
 
 I found a handful of used 48-point 1/4" TRS patchbays. While I do plan to wire some of these inputs to dedicated preamps (and not through the bay), having the option to wire the entire 24x24 I/O in 1RU sounds beautifully compact.
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true&w=600">
+<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true&w=600"></p>
 
 I'll just need a bunch of breakout cables on one side to get from DB25 to TRS, then TRS to XLR female/male for in/out. For repairability, I decided on "banks" of 8. Here's a block diagram to visualize what I'm thinking:
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true&w=600">
+<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true&w=600"></p>
 
 For now, I can forget about two entire input banks because I don't anticipate using more than 8 inputs for any of my project needs. So looking at 3 output banks and 1 input bank, I would need 4 DB25-TRS breakout/snake cables and 3 TRS-XLR-Male snakes.
 
-<img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true&w=600">
+<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true&w=600"></p>
 
 **Here's where the analysis starts.** After finding some pretty inexpensive [DB25-TRS](https://www.amazon.com/Hosa-DTP802-Snake-Cable-6-6Ft/dp/B001B2SA30) and [TRS-XLR Male](https://www.monoprice.com/product?c_id=301&cp_id=30110&cs_id=3011005&p_id=601296&seq=1&format=2) snakes, the totals would come out to 146.52 + 69.72 = $216.24 before tax and shipping. But there's a big problem that I didn't think about: The DB25-TRS connection is between two units in the same rack. Even if I bought the shortest length of 2m, I'd have 8m (4 x 2m) worth of 8-channel, 3-conductor cabling for a total span of like, 1m (est. 4 x 0.3m).
 
