@@ -16,21 +16,34 @@ _I ended up listening to the recording at the Olympia. Because I love the album 
   
 I've been spending a lot of time looking at hardware. I had dreamed of making some audio rig since I was a child. Now that I have a little spending money, I'll try to fulfill as many of these desires as I can alongside this project.
 
-Starting with the interface with my computer, I decided to buy a [Cymatic uTrack 24](https://cymaticaudio.com/utrack24-productpage/). The unit comes from a relatively new company somewhere in Germany, and it seems to be an absolute gem: It's an interface that can either work as (1) a standalone 24ch recorder, (2) a standalone 24ch playback device, or (3) a 24in 24out USB interface -- and it fits in a succinct 1RU chassis and **runs new for about $550**[^1][^2].
+Starting with the interface, I decided to buy a [Cymatic uTrack 24](https://cymaticaudio.com/utrack24-productpage/). The unit comes from a relatively new company somewhere in Germany, and it seems to be an absolute gem: It's an interface that can either work as (1) a standalone 24ch recorder, (2) a standalone 24ch playback device, or (3) a 24in 24out USB interface -- and it fits in a succinct 1RU chassis and **runs new for about $550**[^1][^2].
 
-Like many other high channel count interfaces, the connectors are [DB25](https://en.wikipedia.org/wiki/D-subminiature)'s. It's a great type of interconnect for saving panel space and for plugging in 8 balanced channels at a time. Not so great for constantly patching sources and speakers. If I want this rear panel to survive anywhere other than the safe untouched spaces behind racks and consoles, I'm going to need a patch bay.
+Like many other high channel count interfaces, the connectors are [DB25](https://en.wikipedia.org/wiki/D-subminiature)'s. It's a great type of interconnect for saving panel space and for plugging in 8 balanced channels at a time. Not so great for constantly patching sources and speakers. If I want this rear panel to survive anywhere other than dusty spaces behind racks and consoles, I'm going to need a patch bay.
 
-I found a handful of used 48-point 1/4" TRS patchbays. While I do plan to wire some of these inputs to dedicated preamps (and not through the bay), having the option to wire the entire 24x24 I/O in 1RU sounds beautifully compact.
+I found a handful of used 48-point 1/4" TRS patchbays. While I do plan to wire some of these inputs to dedicated preamps, having the option to wire the entire 24x24 I/O in 1RU sounds beautifully compact.
 
-<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true&w=600"></p>
+<table style="border:2px solid black; margin-left:auto; margin-right:auto;">
+  <tr><td><p align='center'>
+    <img src="https://github.com/alextongue/live-project/blob/master/_posts/pics/samsonpatch.jpg?raw=true">
+  </p></td></tr>
+</table>
+
 
 I'll just need a bunch of breakout cables on one side to get from DB25 to TRS, then TRS to XLR female/male for in/out. Here's a block diagram to visualize what I'm thinking:
 
-<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true&w=600"></p>
+<table style="border:2px solid black; margin-left:auto; margin-right:auto;">
+  <tr><td><p align='center'>
+    <img src="https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag.png?raw=true">
+  </p></td></tr>
+</table>
 
 For now, I can forget about two entire input banks because I don't anticipate using more than 8 inputs for now. So looking at 3 output banks and 1 input bank, I would need 4 DB25-TRS breakout/snake cables and 3 TRS-XLR-Male snakes.
 
-<p align='center'><img src="//images.weserv.nl/?url=https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true&w=600"></p>
+<table style="border:2px solid black; margin-left:auto; margin-right:auto;">
+  <tr><td><p align='center'>
+    <img src="https://github.com/alextongue/live-project/blob/master/_posts/pics/blockdiag2.png?raw=true">
+  </p></td></tr>
+</table>
 
 After finding some pretty inexpensive [DB25-TRS](https://www.amazon.com/Hosa-DTP802-Snake-Cable-6-6Ft/dp/B001B2SA30) and [TRS-XLR Male](https://www.monoprice.com/product?c_id=301&cp_id=30110&cs_id=3011005&p_id=601296&seq=1&format=2) snakes, the totals would come out to about 150 + 70 = $220 before tax and shipping. But there's a big problem that I didn't think about: The DB25-TRS connection is between two units in the same rack. Even if I bought the shortest length of 2m, I'd have 8m (4 x 2m) worth of 8-channel, 3-conductor cabling for a total span of like, 1m (est. 4 x 0.3m).
 
@@ -47,4 +60,4 @@ This total comes out to almost $80 and some hours of soldering labor (experience
 
 [^2]: I've also collected enough thoughts while comparing this with other high-channel-count interfaces to warrant a whole other blog post, but I'll go into that once the unit arrives.
 
-[^3]: I've heard of phases where folks have tried out a daring hairstyle. While I didn't have a red hair phase, I did have a "red XLR cable" phase: 8 in candy-apple red and 2 in muted purple, all with black Neutrik NCMXX's. A true fashion statement. I also had plans to make a bunch of blue and white TRS cables, but I didn't follow through on those. That's how I have my extra plugs. I've since mellowed down to a black and discreet cable kind of guy...
+[^3]: I've heard of phases where folks have tried out a daring hairstyle. While I didn't have a red hair phase, I did have a "red XLR cable" phase: 8 in candy-apple red and 2 in muted purple, all with black Neutrik NCMXX's. A true fashion statement. I also had plans to make a bunch of blue and white TRS cables, but I didn't follow through on those (fortunately). That's how I have my extra plugs. I've since mellowed down to a black and discreet cable kind of guy...
